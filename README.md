@@ -13,3 +13,5 @@
 	- pip install matplotlib
 
 We will keep installing packages as required.
+
+Here is a [google doc](https://docs.google.com/document/d/1b1heaJXFeFCJa6CnyJ0PMlvy167loM9dgxYKATDqd9I/edit) to accumulate literature reviewed as well as ideas to expand upon. 
